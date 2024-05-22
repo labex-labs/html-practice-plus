@@ -9,8 +9,8 @@ In this course, You will practice more labs of HTML. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | URL                                                                 |
-|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------|
+|   Index | Name                                           | Difficulty   | URL                                                                 |
+|---------|------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 HTML Document Metadata                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70765'>Start Lab</a> |
 |      02 | 📖 HTML Section Header                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70767'>Start Lab</a> |
 |      03 | 📖 HTML Main Content                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70792'>Start Lab</a> |
