@@ -9,7 +9,7 @@ In this course, You will practice more labs of HTML. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                           | Difficulty   | URL                                                                 |
+|   Index | Name                                           | Difficulty   | Practice                                                            |
 |---------|------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 HTML Document Metadata                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70765'>Start Lab</a> |
 |      02 | 📖 HTML Section Header                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70767'>Start Lab</a> |
@@ -91,4 +91,9 @@ In this course, You will practice more labs of HTML. This will help you to maste
 |      78 | 📖 HTML Input Label                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70784'>Start Lab</a> |
 |      79 | 📖 HTML Template Definition                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70858'>Start Lab</a> |
 |      80 | 📖 HTML Text Direction Override                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/70710'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
