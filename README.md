@@ -94,6 +94,7 @@ In this course, You will practice more labs of HTML. This will help you to maste
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
